@@ -1,4 +1,4 @@
-﻿﻿# My Kernel Driver
+# My kernel driver
 
 This is my first Windows kernel Driver that allows you to do some R/W operations to the memory using IOCTL as communication
 
